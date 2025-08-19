@@ -59,18 +59,8 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
-<div align="center">
-![GitHub Snake](https://raw.githubusercontent.com/aayushcoder-ui/aayushcoder-ui/main/output/snake.svg)
-
-</div>
-
----
-
 <div align="center"> 
 ### ⭐ *"Dream big, work smart, code harder."* ⭐  
-[![GitHub followers](https://img.shields.io/github/followers/aayushcoder-ui?style=social)](https://github.com/aayushcoder-ui) 
-![Profile Views](https://komarev.com/ghpvc/?username=aayushcoder-ui&label=Profile%20Views&color=0e75b6&style=flat) 
 
 *Thanks for visiting! Let’s build something amazing together!* 🚀 
 </div>
