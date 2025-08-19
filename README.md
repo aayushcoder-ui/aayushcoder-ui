@@ -75,7 +75,7 @@
 *Thanks for visiting! Let’s build something amazing together!* 🚀  
 
 </div>
-
+![GitHub Snake Dark](https://raw.githubusercontent.com/aayushcoder-ui/aayushcoder-ui/output/snake.svg#gh-dark-mode-only)
 ---
 
 ## 📫 Let’s Connect  
