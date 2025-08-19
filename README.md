@@ -65,6 +65,17 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake  
+
+<div align="center">
+  
+![GitHub Snake Light](https://raw.githubusercontent.com/aayushcoder-ui/aayushcoder-ui/output/snake.svg#gh-light-mode-only)  
+![GitHub Snake Dark](https://raw.githubusercontent.com/aayushcoder-ui/aayushcoder-ui/output/snake.svg#gh-dark-mode-only)  
+
+</div>
+
+---
+
 <div align="center">
   
 ### ⭐ *"If everything seems under control, you’re not going fast enough."* ⭐  
@@ -75,11 +86,10 @@
 *Thanks for visiting! Let’s build something amazing together!* 🚀  
 
 </div>
-![GitHub Snake Dark](https://raw.githubusercontent.com/aayushcoder-ui/aayushcoder-ui/output/snake.svg#gh-dark-mode-only)
+
 ---
 
 ## 📫 Let’s Connect  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aayush-kr-singh)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aayush35664@gmail.com)  
-
