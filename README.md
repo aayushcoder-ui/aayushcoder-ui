@@ -1,15 +1,15 @@
-<div align="center"> 
-# Hey there! I'm Aayush Kumar Singh 🚀 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver;Aspiring+Software+Engineer;Computer+Vision+Enthusiast" alt="Typing SVG" /> 
+<div align="center">
+<h1>Hey there! I'm <b>Aayush Kumar Singh</b> 🚀</h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver;Aspiring+Software+Engineer;Computer+Vision+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🧠 About Me
 💻 CSE student at **Manipal Institute of Technology**  
-📊 Exploring **Machine Learning**, **DSA**, **OpenCV**, and **Computer Vision**  
+📊 Exploring **Machine Learning**, **DSA**, **OpenCV** and **Computer Vision**  
 🌱 Contributor at **GirlScript Summer of Code (GSSoC)**  
-⚡ Passionate about **AI, Data Analytics, Software Development, and Computer Vision**  
+⚡ Passionate about **AI, Data Analytics, Software Development and Computer Vision**  
 🤝 Always open to collaborating on impactful projects  
 
 ---
@@ -60,8 +60,8 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
-<div align="center"> 
-![GitHub Snake Dark](https://raw.githubusercontent.com/aayushcoder-ui/aayushcoder-ui/output/snake.svg#gh-dark-mode-only) 
+<div align="center">
+![GitHub Snake](https://github.com/aayushcoder-ui/aayushcoder-ui/blob/main/output/snake.svg?raw=true)
 </div>
 
 ---
