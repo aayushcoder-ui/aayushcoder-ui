@@ -9,7 +9,7 @@
 💻 CSE student at **Manipal Institute of Technology**  
 📊 Exploring **Machine Learning**, **DSA**, **OpenCV**, and **Computer Vision**  
 🌱 Contributor at **GirlScript Summer of Code (GSSoC)**  
-⚡ Strong interest in **AI, Data Analytics, Software Development, and Computer Vision**  
+⚡ Passionate about **AI, Data Analytics, Software Development, and Computer Vision**  
 🤝 Always open to collaborating on impactful projects  
 
 ---
@@ -35,8 +35,8 @@
 - Contribute to **open-source projects** beyond GSSoC  
 - Build a **portfolio website** to showcase achievements  
 - Participate in **hackathons and internships**  
-- Begin **freelancing** for real-world exposure  
-- Grow strong **industry connections**  
+- Start **freelancing** for real-world exposure  
+- Build strong **industry connections**  
 
 ---
 
