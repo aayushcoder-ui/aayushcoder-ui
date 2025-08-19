@@ -7,9 +7,9 @@
 
 ## 🧠 About Me
 💻 CSE student at **Manipal Institute of Technology**  
-📊 Exploring **Machine Learning**, **DSA**, **OpenCV** and **Computer Vision**  
+📊 Exploring **Machine Learning**, **DSA**, **OpenCV**, and **Computer Vision**  
 🌱 Contributor at **GirlScript Summer of Code (GSSoC)**  
-⚡ Passionate about **AI, Data Analytics, Software Development and Computer Vision**  
+⚡ Passionate about **AI, Data Analytics, Software Development, and Computer Vision**  
 🤝 Always open to collaborating on impactful projects  
 
 ---
@@ -53,7 +53,7 @@
 ---
 
 ## 🔥 Contribution Graph
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"> 
+<a href="https://github.com/aayushcoder-ui/github-readme-activity-graph"> 
 <img alt="Aayush's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aayushcoder-ui&bg_color=0d1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true"/> 
 </a>
 
@@ -61,7 +61,7 @@
 
 ## 🐍 GitHub Contribution Snake
 <div align="center">
-![GitHub Snake](https://github.com/aayushcoder-ui/aayushcoder-ui/blob/main/output/snake.svg?raw=true)
+<img src="https://raw.githubusercontent.com/aayushcoder-ui/aayushcoder-ui/main/output/snake.svg" alt="GitHub Snake" />
 </div>
 
 ---
